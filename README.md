@@ -1,8 +1,8 @@
-## FUTURE LOGIC
+## FUTURE LOGIC (NextGen NetEng)
 
 <br />
 
-#### SKILLS
+## SKILLS
 >   - Network Engineering
 >   - Security
 >   - Firewalls
