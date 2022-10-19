@@ -30,6 +30,8 @@
 >   - HTML
 >   - GIT
 >   - Docker / Containers
+>   - Ansible
+>   - Drive
 >   - Jenkins
 >   - Selenium
 >   - NagiOS
