@@ -3,6 +3,14 @@
 
 <br />
 
+
+## My Work
+>   - [NetEng Repo: All Network Engineering related materials]()
+>   - [DevOps Repo: All DevOps Engineering related materials]()
+
+<br />
+<br />
+
 ## SKILLS
 >   - Network Engineering
 >   - Security
@@ -25,8 +33,3 @@
 >   - Jenkins
 >   - Selenium
 >   - NagiOS
-
-
-## My Work
->   - [NetEng Repo: All Network Engineering related materials]()
->   - [DevOps Repo: All DevOps Engineering related materials]()
