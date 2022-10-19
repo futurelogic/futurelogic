@@ -1,5 +1,5 @@
 ## Joseph Anderson
-#### <Network / DevOps Engineer>
+##### Network / DevOps Engineer
 
 <br />
 
