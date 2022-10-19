@@ -5,8 +5,8 @@
 
 
 ## My Work
->   - [NetEng Repo: All Network Engineering related materials]()
->   - [DevOps Repo: All DevOps Engineering related materials]()
+>   - [NetEng Repo: All Network Engineering related materials](https://github.com/futurelogic/net_eng)
+>   - [DevOps Repo: All DevOps Engineering related materials](https://github.com/futurelogic/dev_ops)
 
 <br />
 <br />
