@@ -19,6 +19,10 @@
 >   - TCP/IP, session flow
 >   - Wireshark
 >   - Python
+>   - Django
+>   - Rest Framework
+>   - GoLang
+>   - Go Cobra
 >   - Bash Scripting
 >   - Perl
 >   - HTTP methods
