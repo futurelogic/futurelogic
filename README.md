@@ -20,22 +20,22 @@
 >   - Wireshark
 >   - Python
 >   - Django
->   - Rest Framework
+>   - Rest Framework / API
+>   - Test Driven Development
 >   - GoLang
 >   - Go Cobra
 >   - Bash Scripting
 >   - Perl
 >   - HTTP methods
->   - Java
->   - RestAPI
+>   - JS
 >   - Markdown
 >   - JSON
 >   - XML
 >   - HTML
->   - GIT
+>   - GIT, Revision Control
 >   - Docker / Containers
+>   - Kubernetes
 >   - Ansible
->   - Drive
 >   - Jenkins
 >   - Selenium
 >   - NagiOS
