@@ -1,5 +1,5 @@
 ## Joseph Anderson
-##### Network, Data Center, DevOps, Build Automation
+##### Data Center, Network, DevOps, Build Automation
 
 <br />
 
